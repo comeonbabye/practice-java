@@ -1,9 +1,9 @@
 package com.design_pattern;
 
 /**
- * ����ģʽ��
- * �ڵ�һ�ε��õ�ʱ��ų�ʼ�������Ƕ��߳����а�ȫ���⣬
- * synchronized�Է�������ͬ��������˰�ȫ���⣬����ÿ�ζ����������ں����Ĳ��������£������������
+ * 单例模式四
+ * 在第一次调用的时候才初始化，但是多线程下有安全问题，
+ * synchronized对方法加上同步，解决了安全问题，但是每次都调用锁，在海量的并发调用下，性能损耗严重
  * @author tony
  *
  */
