@@ -2,7 +2,7 @@ package com.thread_pattern.single_threaded_execution_pattern;
 
 
 /**
- * SharedResource(共享资源)参与者
+ * SharedResource(共享资源)参与者, 只有唯一的线程可以在同一时刻访问
  * @author tony
  *
  */
