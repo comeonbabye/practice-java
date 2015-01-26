@@ -68,3 +68,36 @@
 2015-01-24 19:35:29,334 [com.file.properties.checkchange.FileChangeMonitor] INFO  com.file.properties.checkchange.FileChangeMonitor 79 - nothing changed for test.properties
 2015-01-24 19:35:30,334 [com.file.properties.checkchange.FileChangeMonitor] INFO  com.file.properties.checkchange.FileChangeMonitor 79 - nothing changed for test.properties
 2015-01-24 19:35:31,334 [com.file.properties.checkchange.FileChangeMonitor] INFO  com.file.properties.checkchange.FileChangeMonitor 79 - nothing changed for test.properties
+2015-01-26 20:03:10,597 [main] INFO  com.cache.LRU.LRUCache 113 - get key:one, value:one
+2015-01-26 20:05:02,797 [main] INFO  com.cache.LRU.LRUCache 129 - get key:one, value:one
+2015-01-26 20:05:02,806 [main] INFO  com.cache.LRU.LRUCache 112 - key:one, value:one
+2015-01-26 20:05:47,002 [main] INFO  com.cache.LRU.LRUCache 131 - get key:one, value:one
+2015-01-26 20:05:47,011 [main] INFO  com.cache.LRU.LRUCache 110 - ===============cache infor==================
+2015-01-26 20:05:47,012 [main] INFO  com.cache.LRU.LRUCache 114 - key:two, value:two
+2015-01-26 20:05:47,013 [main] INFO  com.cache.LRU.LRUCache 114 - key:one, value:one
+2015-01-26 20:07:32,548 [main] INFO  com.cache.LRU.LRUCache 131 - get key:one, value:one
+2015-01-26 20:07:32,556 [main] INFO  com.cache.LRU.LRUCache 110 - ===============cache infor==================
+2015-01-26 20:07:32,556 [main] INFO  com.cache.LRU.LRUCache 114 - key:four, value:four
+2015-01-26 20:07:32,557 [main] INFO  com.cache.LRU.LRUCache 114 - key:three, value:three
+2015-01-26 20:07:32,557 [main] INFO  com.cache.LRU.LRUCache 114 - key:two, value:two
+2015-01-26 20:07:52,747 [main] INFO  com.cache.LRU.LRUCache 131 - get key:one, value:one
+2015-01-26 20:07:52,756 [main] INFO  com.cache.LRU.LRUCache 147 - get key:five, value:null
+2015-01-26 20:07:52,757 [main] INFO  com.cache.LRU.LRUCache 110 - ===============cache infor==================
+2015-01-26 20:07:52,757 [main] INFO  com.cache.LRU.LRUCache 114 - key:four, value:four
+2015-01-26 20:07:52,758 [main] INFO  com.cache.LRU.LRUCache 114 - key:three, value:three
+2015-01-26 20:07:52,758 [main] INFO  com.cache.LRU.LRUCache 114 - key:two, value:two
+2015-01-26 20:32:00,661 [main] INFO  com.practice.cycle_list.Solution 82 - Naive Approach, has cycyle : true
+2015-01-26 20:33:53,091 [main] INFO  com.practice.cycle_list.Solution 78 - Naive Approach, has cycyle : true
+2015-01-26 20:36:31,414 [main] INFO  com.practice.cycle_list.Solution 78 - Naive Approach, has cycyle : true
+2015-01-26 20:36:31,423 [main] INFO  com.practice.cycle_list.Solution 106 - Accepted Approach, has cycyle : true
+2015-01-26 20:41:08,305 [main] INFO  com.practice.cycle_list.Solution 78 - Naive Approach, has cycyle : true
+2015-01-26 21:01:58,247 [main] INFO  com.sort.InsertSortStrategy 41 - ==============插入排序==============
+2015-01-26 21:01:58,255 [main] INFO  com.sort.InsertSortStrategy 42 - 排序前...........
+2015-01-26 21:01:58,285 [main] INFO  com.sort.InsertSortStrategy 43 - 5	75	81	61	85	26	81	39	37	45	74	28	13	76	31	46	40	36	74	12	
+2015-01-26 21:01:58,288 [main] INFO  com.sort.InsertSortStrategy 49 - 比较次数：111
+2015-01-26 21:01:58,288 [main] INFO  com.sort.InsertSortStrategy 50 - 交换次数：130
+2015-01-26 21:01:58,289 [main] INFO  com.sort.InsertSortStrategy 52 - 排序后...........
+2015-01-26 21:01:58,289 [main] INFO  com.sort.InsertSortStrategy 53 - 5	12	13	26	28	31	36	37	39	40	45	46	61	74	74	75	76	81	81	85	
+2015-01-26 21:27:25,388 [main] INFO  com.practice.ReverseWordInString 32 - after reverse : blue is sky the
+2015-01-26 21:27:42,649 [main] INFO  com.practice.ReverseWordInString 32 - before reverse : the sky is blue
+2015-01-26 21:27:42,665 [main] INFO  com.practice.ReverseWordInString 34 - after reverse : blue is sky the
