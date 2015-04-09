@@ -109,7 +109,7 @@ public class ConsistentHash<T> {
 		}
 
 		showServer(map);
-		/*map.clear();  
+		map.clear();  
 		consistentHash.remove( "A" );  
 
 		System. out .println("------- remove A" );  
@@ -155,7 +155,7 @@ public class ConsistentHash<T> {
 		       // System.out.println(key);  
 		}  
 
-		 showServer(map);  */
+		 showServer(map);  
 
 	}
 

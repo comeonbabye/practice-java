@@ -68,5 +68,4 @@ public class InsertSortStrategy extends SortStrategy<int[]> {
 			count2++;
 		}
 	}
-
 }
