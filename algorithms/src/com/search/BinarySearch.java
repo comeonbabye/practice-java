@@ -23,7 +23,7 @@ public class BinarySearch {
 
 	public static void main(String[] args) {
 
-		int size = 500000, seed = 50000;
+		int size = 5000, seed = 50000;
 
 		int[] a = null;
 		SortContext<int[]> sortContext = null;
