@@ -3,6 +3,8 @@ package com.practice.cycle_list;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
+import com.practice.ListNode;
+
 /**
  * 给定一个链表，判断是否有闭环
  * 

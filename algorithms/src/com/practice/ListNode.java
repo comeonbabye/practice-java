@@ -1,4 +1,4 @@
-package com.practice.cycle_list;
+package com.practice;
 
 public class ListNode {
 
@@ -9,6 +9,11 @@ public class ListNode {
         this.val = x;
         this.next = null;
     }
+
+	@Override
+	public String toString() {
+		return val == null ? "" : val.toString() + "\t" + (next == null ? "" : next.toString()); 
+	}
     
     
 }
